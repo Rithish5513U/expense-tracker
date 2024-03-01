@@ -9,6 +9,11 @@ app.get("/hi",(req,res)=>{
     res.json(req.query)
 })
 //  })
+app.get("/todos", (req, res) => {
+    const todos = fetch("https://jsonplaceholder.typicode/tosos")
+    .then((response) => response.json())
+    .then((json) => json)
+})
 
 app.listen(3000,()=>{
     console.log("App running");
