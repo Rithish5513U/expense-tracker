@@ -1,0 +1,19 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rithish5513U/expense-tracker.git"
+  },
+  "author": "Rithish S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rithish5513U/expense-tracker/issues"
+  },
+  "homepage": "https://github.com/Rithish5513U/expense-tracker#readme"
+}
