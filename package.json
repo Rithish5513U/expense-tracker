@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rithish5513U/expense-tracker/issues"
   },
-  "homepage": "https://github.com/Rithish5513U/expense-tracker#readme"
+  "homepage": "https://github.com/Rithish5513U/expense-tracker#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
 }
